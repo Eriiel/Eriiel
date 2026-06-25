@@ -1,14 +1,14 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy Eriol Tuñon</h1>
 
 <p align="center">
-  <i>Estudiante de Tecnología | Desarrollador de Software | Visión de Producto</i>
+  <i>Estudiante de Tecnología | Ingeniero de Software | Visión de Producto</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@email.com">
+  <a href="mailto:eriol.tun@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -56,7 +56,6 @@ No me quedo solo en la teoría: me gusta llevar las ideas a la ejecución, const
 - 🛒 **Tienda online** — catálogo, carrito de compras y gestión de pedidos
 - 💡 **Propuesta de software tipo SaaS** — diseño de producto con modelo de suscripción
 
-> *(Agrega aquí enlaces a los repos de cada proyecto)*
 
 ---
 
@@ -67,7 +66,7 @@ No me quedo solo en la teoría: me gusta llevar las ideas a la ejecución, const
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eriiel" />
 </p>
 
 ---
