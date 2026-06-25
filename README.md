@@ -62,7 +62,7 @@ No me quedo solo en la teoría: me gusta llevar las ideas a la ejecución, const
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eriiel&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
