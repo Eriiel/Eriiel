@@ -1,77 +1,141 @@
-<h1 align="center">¡Hola! 👋 Soy Eriol Tuñon</h1>
+# <h1 align="center">¡Hola! 👋 Soy Eriol Tuñon</h1>
 
 <p align="center">
-  <i>Estudiante de Tecnología | Ingeniero de Software | Visión de Producto</i>
+  <strong>Estudiante de Ingeniería en Sistemas y Computación | Desarrollador de Software | Entusiasta de la Arquitectura y el Diseño de Sistemas</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  Apasionado por construir soluciones tecnológicas que combinen desarrollo, diseño de software y visión de producto.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:eriol.tun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas / Software** en la **Universidad Tecnológica de Panamá (UTP)**, enfocado en el desarrollo de software y la construcción de soluciones prácticas y funcionales.
+🎓 Actualmente soy estudiante de **Ingeniería en Sistemas y Computación** en la **Universidad Tecnológica de Panamá (UTP)**.
 
-No me quedo solo en la teoría: me gusta llevar las ideas a la ejecución, construir sistemas completos y mejorarlos iterativamente. Aprendo haciendo, probando y refinando constantemente.
+Me apasiona el desarrollo de software y el diseño de sistemas. Disfruto transformar ideas en aplicaciones funcionales, desde la planificación y modelado hasta la implementación y mejora continua.
 
-- 🎓 Estudiante de Tecnología en la UTP
-- 💻 Enfoque en desarrollo full-stack con visión de producto
-- 🧠 Me interesa no solo programar, sino diseñar sistemas escalables y pensar en modelos de negocio
-- 📈 En camino a convertirme en desarrollador full-stack con potencial hacia roles de arquitecto de software, PM o emprendedor tecnológico
+Estoy especialmente interesado en:
 
----
+* 💻 Desarrollo de software Full-Stack.
+* 🏗️ Arquitectura y diseño de software.
+* 🗄️ Bases de datos y optimización de consultas.
+* 📊 Análisis y diseño de algoritmos.
+* 🚀 Construcción de productos tecnológicos y soluciones SaaS.
 
-### 🛠️ Habilidades
-
-- **Lenguajes:** Java, Python
-- **Bases de datos:** SQL (procedimientos almacenados, triggers, diseño estructurado de bases de datos)
-- **Análisis y diseño de software:** UML, casos de uso, patrones de diseño
-- **Metodología de trabajo:** Desarrollo iterativo, pensamiento orientado a resultados, resolución de problemas reales
+Mi objetivo es crecer profesionalmente como **Software Engineer**, con proyección hacia roles relacionados con **Arquitectura de Software, Product Management y emprendimiento tecnológico**.
 
 ---
 
-### 💻 Tecnologías
+## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
+### Bases de Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+* SQL Server
+* Procedimientos almacenados
+* Triggers
+* Funciones y vistas
+* Modelado de bases de datos
+
+### Desarrollo y Diseño de Software
+
+* UML
+* Casos de Uso
+* Diagramas de Secuencia y Clases
+* Patrones de Diseño
+* Arquitectura de Software
+* Análisis y Diseño de Sistemas
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+También tengo experiencia utilizando herramientas de gestión y organización como:
+
+* Notion
+* Jira
+* Trello
+
 ---
 
-### 📂 Proyectos destacados
+## 📚 Actualmente aprendiendo
 
-- 🎰 **Sistema de apuestas** — gestión de usuarios, apuestas y resultados
-- 🎬 **Sistema de reservas de cine** — reserva de asientos y boletos en línea
-- 🛒 **Tienda online** — catálogo, carrito de compras y gestión de pedidos
-- 💡 **Propuesta de software tipo SaaS** — diseño de producto con modelo de suscripción
-
+* 🌐 Desarrollo Web Full-Stack.
+* ☁️ Fundamentos de Cloud Computing.
+* 🏛️ Arquitectura de Software.
+* ⚙️ Buenas prácticas de ingeniería de software.
+* 📈 Desarrollo de productos digitales.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📂 Proyectos Destacados
+
+### 🎰 Sistema de Gestión de Apuestas
+
+Aplicación desarrollada en Java orientada a la administración de apostadores, caballos, apuestas y cálculo de ganancias.
+
+### 🎬 Sistema de Reservas de Cine
+
+Sistema para gestión de cartelera, reserva de asientos y cálculo automático de precios y descuentos.
+
+### 🛒 E-commerce "Crochet Petal's Art"
+
+Diseño y modelado de una tienda online aplicando principios de arquitectura y diseño de software.
+
+### 🗄️ Proyectos de Bases de Datos
+
+Desarrollo de soluciones utilizando SQL Server, procedimientos almacenados, funciones, triggers y consultas avanzadas.
+
+### 🏢 Diseño de Soluciones Empresariales
+
+Modelado y documentación de sistemas empresariales utilizando UML, patrones de diseño y metodologías de ingeniería de software.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eriiel&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eriiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eriiel&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eriiel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eriiel&theme=tokyonight"/>
 </p>
 
 ---
 
-### 📫 Contáctame
+## 🤝 Conectemos
 
-- 📧 Email: eriol.tun@gmail.com
-- 💼 LinkedIn: [tu-usuario](https://www.linkedin.com/in/tu-usuario/)
+📧 **Correo:** [eriol.tun@gmail.com](mailto:eriol.tun@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/tu-usuario
+
+---
+
+<p align="center">
+  <i>"La mejor manera de aprender es construyendo."</i>
+</p>
