@@ -42,20 +42,23 @@ Mi objetivo es crecer profesionalmente como **Software Engineer**, con proyecci�
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,ts,html,css,cpp,php" />
 </p>
 
 ### Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 * SQL Server
+* PostgreSQL
+* MySQL
 * Procedimientos almacenados
 * Triggers
 * Funciones y vistas
 * Modelado de bases de datos
+* Optimización de consultas
 
 ### Desarrollo y Diseño de Software
 
@@ -65,11 +68,19 @@ Mi objetivo es crecer profesionalmente como **Software Engineer**, con proyecci�
 * Patrones de Diseño
 * Arquitectura de Software
 * Análisis y Diseño de Sistemas
+* Arquitectura Hexagonal
+* Clean Architecture
+* MVVM
+* REST APIs
+* OpenAPI / Swagger
+* Spring Security (JWT)
+* JPA / Hibernate
+* Ingeniería de Requisitos
 
 ### Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,figma,postman,docker,androidstudio,nextjs,react,nodejs,nestjs,spring" />
 </p>
 
 También tengo experiencia utilizando herramientas de gestión y organización como:
@@ -77,6 +88,14 @@ También tengo experiencia utilizando herramientas de gestión y organización c
 * Notion
 * Jira
 * Trello
+* Docker
+* IntelliJ IDEA
+* Eclipse
+* Android Studio
+* Postman
+* Power BI
+* SQL Server Management Studio
+* Cisco Packet Tracer
 
 ---
 
@@ -87,10 +106,19 @@ También tengo experiencia utilizando herramientas de gestión y organización c
 * 🏛️ Arquitectura de Software.
 * ⚙️ Buenas prácticas de ingeniería de software.
 * 📈 Desarrollo de productos digitales.
+* 📱 Desarrollo de aplicaciones Android con Jetpack Compose.
+* 🔐 Seguridad con JWT y Spring Security.
+* 🐳 Docker y despliegue de aplicaciones.
+* ⚛️ Next.js y arquitecturas modernas Full-Stack.
+* 🤖 Inteligencia Artificial aplicada al desarrollo de software.
 
 ---
 
 ## 📂 Proyectos Destacados
+
+### 🏥 SaaS para Gestión de Clínicas
+
+Plataforma Full-Stack desarrollada con **Spring Boot**, **Next.js**, **Android**, **PostgreSQL** y **JWT**, aplicando Arquitectura Hexagonal, Clean Architecture, API REST y autenticación segura.
 
 ### 🎰 Sistema de Gestión de Apuestas
 
