@@ -1,7 +1,7 @@
 # <h1 align="center">¡Hola! 👋 Soy Eriol Tuñon</h1>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería en Sistemas y Computación | Desarrollador de Software | Entusiasta de la Arquitectura y el Diseño de Sistemas</strong>
+  <strong>Estudiante de Ingeniería de Software | Desarrollador de Software | Entusiasta de la Arquitectura y el Diseño de Sistemas</strong>
 </p>
 
 <p align="center">
